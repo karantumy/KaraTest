@@ -99,7 +99,7 @@ if ( isset($_POST['ans']) && $_POST['ans'] != '' ) {
     echo '
         </div>
         <div class="finish_bottom clearfix">
-            <div class="finish_bottom_left"><a class="finish_bottom_left_link" href="#letts25"><span style="color:#fff;">Get a 25% discount when purchasing any Letts Revison<br />guide simply click here and use the code LETTS25</span></a></div>
+            <div class="finish_bottom_left"><a class="finish_bottom_left_link" href="http://www.collins.co.uk/search?ssv=Letts#esp_cf=key_stage&esp_filter_brand=Letts%20GCSE%20Success&esp_filter_brand=Letts%20A%20Level%20Success&esp_filter_brand=Letts%20Explore%20GCSE%20Text%20Guides&esp_filter_brand=Letts%20GCSE%20in%20a%20Week%20Revision%20Guides&esp_filter_brand=Letts%20IGCSE%" target="_blank"><span style="color:#fff;">Get a 25% discount when purchasing any Letts Revision<br />guide simply click here and use the code LETTS25</span></a></div>
             <div class="finish_bottom_right"><p>Tell your friends what learning style you are</p><div class="fb-share-button" data-href="https://prettygoodwebhost.com/fb/letts/" data-width="120" data-type="button_count"></div></div>
         </div>
     </div>

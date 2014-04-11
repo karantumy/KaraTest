@@ -19,7 +19,7 @@ function letts_header() {
     <!--<![endif]-->
     <head>
     <link rel="shortcut icon" href="assets/favicon.ico" />
-    <link href="http://fonts.googleapis.com/css?family=Swanky+and+Moo+Moo" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Swanky+and+Moo+Moo" rel="stylesheet" type="text/css">
     <link href="assets/css/reset.css" rel="stylesheet" />
     <link href="assets/css/styles.css?v='.date('U').'" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="assets/fancybox/source/jquery.fancybox.css" />
