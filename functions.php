@@ -42,7 +42,7 @@ function letts_footer() {
     <footer id="pageFooter">
         <nav>
             <ul class="clearfix">
-                <li><a href="https://fb.harpercollins.co.uk/lettssocial/current/index.php" target="_blank">Terms & Conditions</a><span>|</span></li>
+                <li><a href="http://www.collins.co.uk/page/Terms+%26+Conditions" target="_blank">Terms & Conditions</a><span>|</span></li>
                 <li><a href="http://www.collins.co.uk/page/Privacy+policy" target="_blank">Privacy Policy</a></li>
             </ul>
         </nav>
