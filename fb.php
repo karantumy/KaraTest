@@ -10,6 +10,12 @@
           cookie     : true, // enable cookies to allow the server to access the session
           xfbml      : true  // parse XFBML
         });
+
+        FB.Canvas.setSize({ width: 810, height: 1149 });
+
+        FB.Canvas.setDoneLoading( function(response) {
+            FB.Canvas.setAutoGrow();
+        });
     };
 
     function requestCallback(response) {
