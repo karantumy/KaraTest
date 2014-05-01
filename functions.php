@@ -32,6 +32,7 @@ function letts_header() {
     <![endif]-->
     <meta charset="UTF-8" />
     <title>'.$settings['title'].'</title>
+    <meta name="viewport" content="width=802px">
     </head>
     <body>
     ';
