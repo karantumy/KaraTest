@@ -1,13 +1,12 @@
 <?php
-echo $_SERVER['HTTP_HOST'];
-if ($_SERVER['HTTP_HOST']='prettygoodwebhost.com') {
+/*if ($_SERVER['HTTP_HOST']='prettygoodwebhost.com') {
 ?>
 <script type="text/javascript">
 window.top.location.href = "https://www.facebook.com/pages/Pretty-Good-Test/112238675534399?id=112238675534399&sk=app_659643390727212";
 </script>
 <?php
 exit;
-}
+}*/
 require_once 'functions.php';
 letts_header();
 ?>
