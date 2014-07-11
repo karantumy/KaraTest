@@ -1,4 +1,4 @@
 KaraTest
 ========
 
-This is a test repository
+This is both a test repository, and my first repository.
